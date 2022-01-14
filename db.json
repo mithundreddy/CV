@@ -1,4 +1,5 @@
-[
+{
+  "products" : [
   {
     "id": 1,
     "productName": "Moto G",
@@ -34,3 +35,4 @@
     "price": "Rs. 25000"
   }
 ]
+}
