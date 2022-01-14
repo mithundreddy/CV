@@ -33,6 +33,13 @@
     "productName": "Nokia 9",
     "quantity": 4,
     "price": "Rs. 25000"
+  },
+  
+  {
+    "id": 6,
+    "productName": "Samsung Galaxy",
+    "quantity": 10,
+    "price": "Rs. 50000"
   }
 ]
 }
