@@ -3,34 +3,34 @@
     "id": 1,
     "productName": "Moto G",
     "quantity": 3,
-    "price": "Rs. 15000",
+    "price": "Rs. 15000"
   },
   
   {
     "id": 2,
     "productName": "OnePlus 9",
     "quantity": 5,
-    "price": "Rs. 45000",
+    "price": "Rs. 45000"
   },
   
   {
     "id": 3,
     "productName": "Dell Latitude",
     "quantity": 7,
-    "price": "Rs. 95000",
-  },
-  
-  {
-    "id": 3,
-    "productName": "Dell Inspiron",
-    "quantity": 4,
-    "price": "Rs. 55000",
+    "price": "Rs. 95000"
   },
   
   {
     "id": 4,
+    "productName": "Dell Inspiron",
+    "quantity": 4,
+    "price": "Rs. 55000"
+  },
+  
+  {
+    "id": 5,
     "productName": "Nokia 9",
     "quantity": 4,
-    "price": "Rs. 25000",
+    "price": "Rs. 25000"
   }
 ]
